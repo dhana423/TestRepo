@@ -8,7 +8,11 @@
         "id": "066240000017yhjAAA", 
         "lastModifiedById": "00524000000fRgBAAU", 
         "lastModifiedByName": "dhana lakshmi", 
+<<<<<<< HEAD
         "lastModifiedDate": "2015-04-02 12:54:41", 
+=======
+        "lastModifiedDate": "2015-04-02 12:41:23", 
+>>>>>>> 85ff0b87a3a23e5b1a13f6ae846e71b5360db777
         "mmState": "clean", 
         "type": "ApexPage"
     }, 
