@@ -1,0 +1,19 @@
+{
+    "username": "dhana423@gmail.com", 
+    "environment": "developer", 
+    "project_name": "DLProject", 
+    "workspace": "C:/VinodKR/MavensmateWorkSpace", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "W1AAX0UVGG3EADWOE61NBSUGKTYAPP5G", 
+    "metadata_container": "1dc24000000DcQzAAK", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
